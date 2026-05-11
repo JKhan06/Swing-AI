@@ -2,6 +2,14 @@
 
 AI-powered golf swing analysis platform that uses computer vision and LLM-based feedback to analyze swing mechanics in real time.
 
+# Preview 
+
+
+
+https://github.com/user-attachments/assets/50c124ae-8802-493f-862c-fb4283e694b4
+
+
+
 ## Features
 
 - Pose estimation using MediaPipe
