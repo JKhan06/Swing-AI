@@ -1,0 +1,26 @@
+# Python
+.venv/
+__pycache__/
+*.pyc
+*.pyo
+*.egg-info/
+dist/
+build/
+.eggs/
+
+# Environment / secrets
+.env
+.env.*
+
+# Backend generated outputs
+backend/outputs/visuals/
+backend/outputs/*.json
+backend/outputs/*.mp4
+
+# Node
+node_modules/
+frontend/.next/
+frontend/tsconfig.tsbuildinfo
+
+# macOS
+.DS_Store
