@@ -17,6 +17,20 @@ Backend: FastAPI, Python
 AI/ML: MediaPipe, Google Gemini
 Deployment/Tools: Git, GitHub, REST APIs
 
+
+## System Architecture
+
+- React frontend for video upload and visualization
+- FastAPI backend for inference and processing
+- MediaPipe pose estimation pipeline
+- Gemini-powered feedback generation
+
+## Challenges
+
+- Synchronizing pose landmarks frame-by-frame
+- Optimizing upload latency for large swing videos
+- Designing structured prompts for swing feedback
+
 ## Backend Setup
 
 ```bash
